@@ -4,7 +4,10 @@
   import path from 'path';
 
   export default defineConfig({
+<<<<<<< HEAD
     base: '/procred-web/',
+=======
+>>>>>>> origin/main
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
@@ -52,7 +55,11 @@
     },
     build: {
       target: 'esnext',
+<<<<<<< HEAD
       outDir: 'dist',
+=======
+      outDir: 'build',
+>>>>>>> origin/main
     },
     server: {
       port: 3000,
