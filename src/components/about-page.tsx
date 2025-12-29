@@ -12,29 +12,29 @@ interface AboutPageProps {
 export function AboutPage({ onPageChange }: AboutPageProps) {
   const teamMembers = [
     {
-      name: "Dr. Sarah Mitchell",
-      role: "CEO & Co-Founder",
-      bio: "Former education technology executive with 15+ years of experience in digital transformation.",
+      name: "Jugal Mayani",
+      role: "CEO & Founder",
+      bio: "Former education technology executive with 2+ years of experience in digital transformation.",
       avatar: "SM",
       expertise: ["EdTech", "Strategy", "Leadership"]
     },
     {
-      name: "Alex Chen",
+      name: "Anjali Shiroya",
       role: "CTO & Co-Founder",
       bio: "Full-stack developer and blockchain expert, passionate about secure credential verification.",
       avatar: "AC",
       expertise: ["Blockchain", "Security", "APIs"]
     },
     {
-      name: "Maria Rodriguez",
-      role: "Head of Product",
+      name: "Darshil Sakhiya",
+      role: "Co-Founder & Management Head",
       bio: "UX specialist focused on creating seamless experiences for students and recruiters.",
       avatar: "MR",
       expertise: ["UX Design", "Product Strategy", "Research"]
     },
     {
       name: "Dr. James Park",
-      role: "Head of Verification",
+      role: "Head of Product & Verification Team Head",
       bio: "Former university registrar with expertise in academic credential verification systems.",
       avatar: "JP",
       expertise: ["Verification", "Academia", "Compliance"]
