@@ -29,7 +29,7 @@ export function RecruiterDashboard() {
   const candidates = [
     {
       id: 1,
-      name: "Dummy 1",
+      name: "Jemimah Rodrigues",
       university: "Gujarat University",
       major: "Computer Science",
       graduationYear: "2025",
