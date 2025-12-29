@@ -49,7 +49,7 @@ export function ContactPage() {
       icon: <Phone className="h-6 w-6 text-green-600" />,
       title: "Phone Support",
       description: "Speak directly with our team",
-      contact: "+1 (555) 123-4567",
+      contact: "+91 762281XXXX",
       available: "Mon-Fri, 9AM-6PM PST"
     },
     {
@@ -63,15 +63,15 @@ export function ContactPage() {
 
   const officeLocations = [
     {
-      title: "San Francisco Headquarters",
-      address: "123 Innovation Drive, Suite 400",
-      city: "San Francisco, CA 94107",
+      title: "Surat CS Headquarters",
+      address: "Om Heritage, Dabholi",
+      city: "Surat, Gujarat",
       description: "Our main headquarters and development center"
     },
     {
-      title: "Boston Education Hub",
+      title: "Ahmedabad Education Hub",
       address: "456 University Avenue, Floor 12",
-      city: "Boston, MA 02116", 
+      city: "Ahmedabad, Gujarat", 
       description: "Partnership and university relations office"
     }
   ];
